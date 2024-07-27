@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Eshwarvijay007
 - 👀 I’m interested in analysing...
-- 🌱 I’m currently learning .c programming..
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Fullstack development..
 - 📫 How to reach me . eshwarvijaynallur@gmail.com..
 
 <!---

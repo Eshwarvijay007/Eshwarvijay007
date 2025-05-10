@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Eshwarvijay007
 - 👀 I’m interested in analysing...
-- 🌱 I’m currently learning Fullstack development..
 - 📫 How to reach me . eshwarvijaynallur@gmail.com..
 
 <!---
